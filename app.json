@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "drrr",
+    "slug": "drrr",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/helmet.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash_helmet_black.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/helmet.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
